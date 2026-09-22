@@ -1,4 +1,4 @@
-Hello,
+## Hello 👋
 
 I hope you’re doing well. My name is Benjamin, I’m 32, and I’m a senior software developer with strong experience in full-stack development and modern software technologies.
 I’m reaching out because I’d like to explore a potential business partnership. The idea is simple: if you’re interested in building an additional income stream through legitimate software-development work, I can handle the technical side—from finding suitable projects and communicating with clients to developing and delivering the software.
@@ -8,4 +8,4 @@ There would be no upfront investment required from you. I’d be happy to explai
 If this sounds interesting, please reply and we can discuss the details.
 
 Best regards,
-Benjamin
+Benjamin 🙏
